@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "osoing idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "osoing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				245,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "osoing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				219,
+				33
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "osoing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				215,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "osoing down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/osoing",
+	"position": [
+		150,
+		170
+	],
+	"healthicon": "icon-osoing",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-260,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}
