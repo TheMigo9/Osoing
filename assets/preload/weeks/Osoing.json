@@ -1,0 +1,41 @@
+{
+	"storyName": "twitter",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "twitter",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"osoing-track",
+			"osoing",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"osoing-track-two",
+			"osoing",
+			[
+				115,
+				115,
+				115
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Osoing",
+	"hiddenUntilUnlocked": false
+}
